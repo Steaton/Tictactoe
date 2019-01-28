@@ -1,0 +1,39 @@
+label {
+    background: white;
+    display: block;
+    float: left;
+    font-size: 100px;
+    height: 100px;
+    line-height: 1;
+    outline: 1px solid #ccc;
+    overflow: hidden;
+    padding: 10px 20px;
+    width: 80px;
+}
+
+table {
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+}
+
+td {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+    font-size: 150px;
+    text-align: center;
+}
+
+td.O {
+    color: #69D2E7;
+}
+
+td.X {
+    color: #F38630;
+}
+
+h2 {
+    text-align: center;
+}
